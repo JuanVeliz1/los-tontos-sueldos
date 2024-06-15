@@ -1,0 +1,7 @@
+Nombre y Apellido: luckas
+Cargo: ceo
+Sueldo Bruto: 12000
+Descuento salud: 840.0000000000001
+Descuento Afp: 1440.0
+Liquido a pagar: 9720.0
+
