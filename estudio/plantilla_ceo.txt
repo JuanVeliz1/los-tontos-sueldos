@@ -1,0 +1,7 @@
+Nombre y Apellido: juan veliz
+Cargo: ceo
+Sueldo Bruto: 8000
+Descuento salud: 560.0
+Descuento Afp: 960.0
+Liquido a pagar: 6480.0
+
